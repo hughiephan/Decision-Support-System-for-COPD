@@ -6,6 +6,9 @@ Nowadays, artificial intelligence (AI) has become an important tool in all field
 # Model
 ![image](https://user-images.githubusercontent.com/16631121/204134322-0514f57d-2614-44a7-9e6b-e73d43890b35.png)
 
+# Research
+[COPD-support-system.pdf](https://github.com/hughiephan/copd-support-system/files/10098267/COPD-support-system.pdf)
+
 # Authors 
 - Lâm Ngọc Châu	(UIT) 
 - Đoàn Vũ Thuận	(UIT)
